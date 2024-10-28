@@ -1,0 +1,12 @@
+
+    @font-face {
+        font-family: "Happiness-Sans";
+        src: local("Happiness-Sans"), url('@/assets/fonts/Happiness-Sans-Regular.ttf') format('truetype'); 
+        font-weight: normal;
+    }
+    @font-face {
+        font-family: "Happiness-Sans";
+        src: local("Happiness-Sans"), url('@/assets/fonts/Happiness-Sans-Bold.ttf') format('truetype');
+        font-weight: bold;
+    }
+    
